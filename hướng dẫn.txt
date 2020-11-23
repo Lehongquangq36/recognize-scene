@@ -1,0 +1,12 @@
+https://viblo.asia/p/deep-learning-qua-kho-dung-lo-da-co-keras-LzD5dBqoZjY
+https://nttuan8.com/bai-7-gioi-thieu-keras-va-bai-toan-phan-loai-anh/
+https://topdev.vn/blog/thuat-toan-cnn-convolutional-neural-network/
+https://viblo.asia/p/thuat-toan-toi-uu-adam-aWj53k8Q56m
+https://pbcquoc.github.io/cnn/
+https://topdev.vn/blog/ung-dung-convolutional-neural-network-trong-bai-toan-phan-loai-anh/
+https://noron.vn/post/gioi-thieu-ve-thu-vien-keras-trong-lap-trinh-machine-learning-527902506116150633
+https://viblo.asia/p/lam-quen-voi-keras-gGJ59mxJ5X2 ----------
+tính số lượng kenel, params: https://forum.machinelearningcoban.com/t/tutorial-tinh-so-luong-parameters-trong-convolutional-neural-network/3638
+conv2d trong ảnh RGB: https://www.it-swarm.dev/vi/python/keras-conv2d-va-trong-khi/831028571/
+hàm kích hoạt activation (relu, softmax..) : https://keras.io/api/layers/activations/
+giải thuật adam: https://www.youtube.com/watch?v=YisebsYZK7c
